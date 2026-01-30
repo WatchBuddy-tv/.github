@@ -1,19 +1,20 @@
 <div align="center">
 
-# 📺 WatchBuddy Organization
+# <img src="https://avatars.githubusercontent.com/u/254314376?s=200&v=4" height="32" align="center"> WatchBuddy
 
 ### Sınırları Aşan, Senkronize ve Yeni Nesil Medya Deneyimi
 
 [![GitHub stars](https://img.shields.io/github/stars/WatchBuddy-tv?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv)
 [![Project Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv)
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)
+[![Uygulamayı İndir](https://img.shields.io/badge/İndir-Son_Sürüm-0078D4?style=for-the-badge&logo=android&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/releases/latest)
 
 [🇺🇸 English Documentation (README.md)](./README.md)
 
 ---
 
 **WatchBuddy**, mesafe tanımaksızın arkadaşlarınızla aynı anda video izlemenize olanak sağlayan, modüler bir ekosistemdir. 
-Amacımız; Web, Mobil ve Masaüstü platformları arasında çalışan, kusursuz bir senkronizasyon köprüsü sunmaktır.
+Amacımız; Web, Mobil ve Masaüstü platformları arasında çalışan, kusursuz bir senkronizasyon köprüsü sunmaktır. [**En son sürümü buradan indirebilirsiniz.**](https://github.com/WatchBuddy-tv/.github/releases/latest)
 
 </div>
 
@@ -35,11 +36,21 @@ WatchBuddy, **merkeziyetsiz ve genişletilebilir** bir mimari üzerine kuruludur
 
 ## ✨ Öne Çıkan Özellikler
 
-- ⏱️ **Kesintisiz Senkronizasyon:** Tüm katılımcılar için milisaniyelik hassasiyette oynatma eşitlemesi.
+- ⏱️ **Kesintisiz Senkronizasyon:** Tüm katılımcılar için gerçek zamanlı oynatma eşitlemesi.
 - 🌍 **Esnek Medya Desteği:** M3U/HLS yayınları ve doğrudan video URL'leri için tam uyumluluk.
 - 🛡️ **Barındırma Yok (No-Hosting):** Biz bir senkronizasyon köprüsüyüz. Herhangi bir medya içeriği barındırmaz, saklamaz veya dağıtmayız.
 - ☁️ **Bulut Erişimi:** İsteğe bağlı profil eşitleme ile favorilerinizi ve geçmişinizi tüm cihazlarınızda koruyun.
 - 💬 **Entegre Etkileşim:** İzleme partileri sırasında gerçek zamanlı sohbet ve anlık tepki paylaşımı.
+
+---
+
+## ⚖️ Kaynaklar ve Yasal
+
+Şeffaflık ve detaylı bilgi için resmi sayfalarımızı ziyaret edebilirsiniz:
+- 🔒 [Gizlilik Politikası](https://watchbuddy.tv/tr/privacy)
+- 📜 [Kullanım Koşulları](https://watchbuddy.tv/tr/terms)
+- 🛡️ [Çocuk Güvenliği Standartları](https://watchbuddy.tv/tr/safety)
+- 🔌 [İçerik Sağlayıcılar ve Sorumluluk](https://watchbuddy.tv/tr/providers)
 
 ---
 
