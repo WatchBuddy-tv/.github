@@ -14,7 +14,9 @@
 ---
 
 **WatchBuddy**, mesafe tanımaksızın arkadaşlarınızla aynı anda video izlemenize olanak sağlayan, modüler bir ekosistemdir. 
-Amacımız; Web, Mobil ve Masaüstü platformları arasında çalışan, kusursuz bir senkronizasyon köprüsü sunmaktır. [**En son sürümü buradan indirebilirsiniz.**](https://github.com/WatchBuddy-tv/.github/releases/latest)
+Amacımız; Web, Mobil ve Masaüstü platformları arasında çalışan, kusursuz bir senkronizasyon köprüsü sunmaktır.
+
+[**En son sürümü buradan indirebilirsiniz.**](https://github.com/WatchBuddy-tv/.github/releases/latest)
 
 </div>
 
