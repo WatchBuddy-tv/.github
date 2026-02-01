@@ -7,7 +7,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/WatchBuddy-tv?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv)
 [![Project Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv)
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)
-[![Download App](https://img.shields.io/badge/Download-Latest_App-0078D4?style=for-the-badge&logo=android&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/releases/latest)
+[![Android](https://img.shields.io/badge/Android-0078D4?style=for-the-badge&logo=android&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/releases/latest)
+[![iOS Beta](https://img.shields.io/badge/iOS_Beta-000000?style=for-the-badge&logo=apple&labelColor=1a1a1a)](https://testflight.apple.com/join/Md9nPaCM)
 
 [🇹🇷 Türkçe Dokümantasyon (README_TR.md)](./README_TR.md)
 
