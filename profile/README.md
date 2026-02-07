@@ -13,7 +13,7 @@
 
 ---
 
-**WatchBuddy** is a modular ecosystem that allows you to watch videos with friends simultaneously, regardless of distance. 
+**WatchBuddy** is a modular ecosystem that allows you to watch videos with friends simultaneously, regardless of distance.
 Our mission is to provide a unified synchronization bridge that works across Web, Mobile, and Desktop platforms.
 
 [**Download the latest version here.**](https://github.com/WatchBuddy-tv/.github/releases/latest)
