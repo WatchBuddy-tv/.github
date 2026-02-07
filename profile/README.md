@@ -16,7 +16,7 @@
 **WatchBuddy** is a modular ecosystem that allows you to watch videos with friends simultaneously, regardless of distance.
 Our mission is to provide a unified synchronization bridge that works across Web, Mobile, and Desktop platforms.
 
-[**Download the latest version here.**](https://play.google.com/store/apps/details?id=com.keyiflerolsun.watchbuddy)
+[**GitHub Release**](https://github.com/WatchBuddy-tv/.github/releases/latest)
 
 </div>
 
