@@ -6,7 +6,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/WatchBuddy-tv?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv)
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)
-[![Android](https://img.shields.io/badge/Android-0078D4?style=for-the-badge&logo=android&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/releases/latest)
+[![Android](https://img.shields.io/badge/Android-0078D4?style=for-the-badge&logo=android&labelColor=1a1a1a)](https://play.google.com/store/apps/details?id=com.keyiflerolsun.watchbuddy)
 [![iOS Beta](https://img.shields.io/badge/iOS_Beta-000000?style=for-the-badge&logo=apple&labelColor=1a1a1a)](https://testflight.apple.com/join/Md9nPaCM)
 
 [🇺🇸 English Documentation (README.md)](./README.md)
@@ -16,7 +16,7 @@
 **WatchBuddy**, mesafe tanımaksızın arkadaşlarınızla aynı anda video izlemenize olanak sağlayan, modüler bir ekosistemdir.
 Amacımız; Web, Mobil ve Masaüstü platformları arasında çalışan, kusursuz bir senkronizasyon köprüsü sunmaktır.
 
-[**En son sürümü buradan indirebilirsiniz.**](https://github.com/WatchBuddy-tv/.github/releases/latest)
+[**En son sürümü buradan indirebilirsiniz.**](https://play.google.com/store/apps/details?id=com.keyiflerolsun.watchbuddy)
 
 </div>
 
