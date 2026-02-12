@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)
 [![Android](https://img.shields.io/badge/Android-0078D4?style=for-the-badge&logo=android&labelColor=1a1a1a)](https://play.google.com/store/apps/details?id=com.keyiflerolsun.watchbuddy)
 [![iOS Beta](https://img.shields.io/badge/iOS_Beta-000000?style=for-the-badge&logo=apple&labelColor=1a1a1a)](https://testflight.apple.com/join/Md9nPaCM)
+[![Telegram Mini App](https://img.shields.io/badge/Telegram_Mini_App-24A1DE?style=for-the-badge&logo=telegram&labelColor=1a1a1a)](https://t.me/WatchBuddyRobot?startapp)
 
 [🇹🇷 Türkçe Dokümantasyon (README_TR.md)](./README_TR.md)
 
@@ -53,6 +54,7 @@ For more transparency and detailed information, please visit our official pages:
 - 📜 [Terms of Service](https://watchbuddy.tv/en/terms)
 - 🛡️ [Child Safety Standards](https://watchbuddy.tv/en/safety)
 - 🔌 [Content Providers & Responsibility](https://watchbuddy.tv/en/providers)
+- 🤖 [Telegram Mini App](https://t.me/WatchBuddyRobot?startapp)
 
 ---
 
