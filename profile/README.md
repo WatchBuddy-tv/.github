@@ -10,7 +10,7 @@
 [![iOS Beta](https://img.shields.io/badge/iOS_Beta-000000?style=for-the-badge&logo=apple&labelColor=1a1a1a)](https://testflight.apple.com/join/Md9nPaCM)
 [![Telegram Mini App](https://img.shields.io/badge/Telegram_Mini_App-24A1DE?style=for-the-badge&logo=telegram&labelColor=1a1a1a)](https://t.me/WatchBuddyRobot?startapp)
 
-[🇹🇷 Türkçe Dokümantasyon (README_TR.md)](./README_TR.md)
+[🇹🇷 Türkçe](./README_TR.md) • [🇫🇷 Français](./README_FR.md) • [🇷🇺 Русский](./README_RU.md) • [🇺🇦 Українська](./README_UK.md)
 
 ---
 
