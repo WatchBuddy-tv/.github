@@ -6,9 +6,9 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/WatchBuddy-tv?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv)
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)
-[![Android](https://img.shields.io/badge/Android-0078D4?style=for-the-badge&logo=android&labelColor=1a1a1a)](https://play.google.com/store/apps/details?id=com.keyiflerolsun.watchbuddy)
-[![Apple Store](https://img.shields.io/badge/Apple_Store-000000?style=for-the-badge&logo=apple&labelColor=1a1a1a)](https://apps.apple.com/us/app/watchbuddy-watch-together/id6758553756)
-[![Telegram Mini App](https://img.shields.io/badge/Telegram_Mini_App-24A1DE?style=for-the-badge&logo=telegram&labelColor=1a1a1a)](https://t.me/WatchBuddyRobot?startapp)
+[![Android](https://img.shields.io/badge/Android-0078D4?style=for-the-badge&logo=android&labelColor=1a1a1a)](https://play.google.com/store/apps/details?id=com.keyiflerolsun.watchbuddy&hl=ru)
+[![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&labelColor=1a1a1a)](https://apps.apple.com/ru/app/watchbuddy-watch-together/id6758553756)
+[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&labelColor=1a1a1a)](https://t.me/WatchBuddyRobot?startapp)
 
 [🇺🇸 English](./README.md) • [🇹🇷 Türkçe](./README_TR.md) • [🇫🇷 Français](./README_FR.md) • [🇺🇦 Українська](./README_UK.md)
 
@@ -53,7 +53,6 @@ WatchBuddy построен на **децентрализованной и ра�
 - 📜 [Условия использования](https://watchbuddy.tv/ru/terms)
 - 🛡️ [Стандарты безопасности детей](https://watchbuddy.tv/ru/safety)
 - 🔌 [Провайдеры контента и ответственность](https://watchbuddy.tv/ru/providers)
-- 🤖 [Telegram Mini App](https://t.me/WatchBuddyRobot?startapp)
 
 ---
 
