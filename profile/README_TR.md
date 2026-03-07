@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)
 [![Android](https://img.shields.io/badge/Android-0078D4?style=for-the-badge&logo=android&labelColor=1a1a1a)](https://play.google.com/store/apps/details?id=com.keyiflerolsun.watchbuddy&hl=tr)
 [![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&labelColor=1a1a1a)](https://apps.apple.com/tr/app/watchbuddy-watch-together/id6758553756)
-[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&labelColor=1a1a1a)](https://t.me/WatchBuddyRobot?startapp)
+[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&labelColor=1a1a1a)](https://t.me/WatchBuddyRobot)
 
 [🇺🇸 English](./README.md) • [🇫🇷 Français](./README_FR.md) • [🇷🇺 Русский](./README_RU.md) • [🇺🇦 Українська](./README_UK.md)
 
@@ -44,6 +44,16 @@ WatchBuddy, **merkeziyetsiz ve genişletilebilir** bir mimari üzerine kuruludur
 - 🛡️ **Barındırma Yok (No-Hosting):** Biz bir senkronizasyon köprüsüyüz. Herhangi bir medya içeriği barındırmaz, saklamaz veya dağıtmayız.
 - ☁️ **Bulut Erişimi:** İsteğe bağlı profil eşitleme ile favorilerinizi ve geçmişinizi tüm cihazlarınızda koruyun.
 - 💬 **Entegre Etkileşim:** İzleme partileri sırasında gerçek zamanlı sohbet ve anlık tepki paylaşımı.
+
+---
+
+## 📱 Ekosisteme Göz Atın
+
+WatchBuddy **Android** ve **iOS**'ta kullanılabilir.
+
+Daha fazla içerik keşfetmek ve bir film ya da diziyi odaya aktarmak için şu servisleri de kullanabilirsiniz:
+- 🌐 **Stream Web:** stream.watchbuddy.tv
+- 🤖 **Telegram Bot:** t.me/WatchBuddyRobot
 
 ---
 

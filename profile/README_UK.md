@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)
 [![Android](https://img.shields.io/badge/Android-0078D4?style=for-the-badge&logo=android&labelColor=1a1a1a)](https://play.google.com/store/apps/details?id=com.keyiflerolsun.watchbuddy&hl=uk)
 [![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&labelColor=1a1a1a)](https://apps.apple.com/uk/app/watchbuddy-watch-together/id6758553756)
-[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&labelColor=1a1a1a)](https://t.me/WatchBuddyRobot?startapp)
+[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&labelColor=1a1a1a)](https://t.me/WatchBuddyRobot)
 
 [🇺🇸 English](./README.md) • [🇹🇷 Türkçe](./README_TR.md) • [🇫🇷 Français](./README_FR.md) • [🇷🇺 Русский](./README_RU.md)
 
@@ -44,6 +44,16 @@ WatchBuddy побудований на **децентралізованій та
 - 🛡️ **No-Hosting політика:** ми — шар синхронізації, не зберігаємо та не поширюємо медіаконтент.
 - ☁️ **Хмарна зв'язність:** опційна синхронізація профілю (обране й історія) між пристроями.
 - 💬 **Вбудована взаємодія:** чат і реакції в реальному часі під час watch party.
+
+---
+
+## 📱 Ознайомтеся з екосистемою
+
+WatchBuddy доступний на **Android** та **iOS**.
+
+Щоб відкривати більше тайтлів і швидко додавати фільм чи серіал у room, ви також можете скористатися одним із сервісів:
+- 🌐 **Stream Web:** https://stream.watchbuddy.tv
+- 🤖 **Telegram-бот:** https://t.me/WatchBuddyRobot
 
 ---
 

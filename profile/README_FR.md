@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)
 [![Android](https://img.shields.io/badge/Android-0078D4?style=for-the-badge&logo=android&labelColor=1a1a1a)](https://play.google.com/store/apps/details?id=com.keyiflerolsun.watchbuddy&hl=fr)
 [![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&labelColor=1a1a1a)](https://apps.apple.com/fr/app/watchbuddy-watch-together/id6758553756)
-[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&labelColor=1a1a1a)](https://t.me/WatchBuddyRobot?startapp)
+[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&labelColor=1a1a1a)](https://t.me/WatchBuddyRobot)
 
 [🇺🇸 English](./README.md) • [🇹🇷 Türkçe](./README_TR.md) • [🇷🇺 Русский](./README_RU.md) • [🇺🇦 Українська](./README_UK.md)
 
@@ -44,6 +44,16 @@ Le projet [ExampleProvider](https://github.com/WatchBuddy-tv/ExampleProvider) es
 - 🛡️ **Politique No-Hosting:** nous sommes une couche de synchronisation; nous n'hebergeons, ne stockons ni ne distribuons de media.
 - ☁️ **Connectivite cloud:** synchronisation optionnelle du profil (favoris + historique) sur vos appareils.
 - 💬 **Interaction integree:** chat en temps reel et reactions pendant les watch parties.
+
+---
+
+## 📱 Explorer l'écosystème
+
+WatchBuddy est disponible sur **Android** et **iOS**.
+
+Pour découvrir davantage de contenus et envoyer rapidement un film ou une série dans une room, vous pouvez aussi utiliser l'un de ces services:
+- 🌐 **Stream Web:** https://stream.watchbuddy.tv
+- 🤖 **Bot Telegram:** https://t.me/WatchBuddyRobot
 
 ---
 
