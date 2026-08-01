@@ -17,7 +17,7 @@
 **WatchBuddy** is a modular ecosystem that allows you to watch videos with friends simultaneously, regardless of distance.
 Our mission is to provide a unified synchronization bridge that works across Web, Mobile, and Desktop platforms.
 
-[**GitHub Release**](https://github.com/WatchBuddy-tv/.github/releases/latest)
+[**Website**](https://watchbuddy.tv) • [**GitHub Release**](https://github.com/WatchBuddy-tv/.github/releases/latest)
 
 </div>
 
@@ -30,10 +30,10 @@ WatchBuddy is built on a **decentralized and extensible** architecture. You are 
 The [ExampleProvider](https://github.com/WatchBuddy-tv/ExampleProvider) project serves as the official blueprint for developers:
 
 - **Plug & Play:** Simply add your provider URL to the WatchBuddy app to start watching.
-- **Isolated Development:** Build and test your scrapers in a local environment without any dependencies.
+- **Isolated Development:** Build and test your providers in a local environment, independent of the core system.
 - **Powered by [KekikStream](https://github.com/keyiflerolsun/KekikStream):** Utilize modern link extraction tools to resolve media URLs. Based on the architecture of [KekikStreamAPI](https://github.com/keyiflerolsun/KekikStreamAPI).
 
-> 🚀 **Build Your Own:** Use the `ExampleProvider` template to bridge your favorite websites into the WatchBuddy experience with minimal Python code.
+> 🚀 **Build Your Own:** Use the `ExampleProvider` template to connect your own content provider to WatchBuddy with minimal Python code.
 
 ---
 
@@ -54,6 +54,7 @@ WatchBuddy is available on **Android** and **iOS**.
 For more ways to discover titles and quickly send them into a room, you can also use one of these services:
 - 🌐 **Stream Web:** https://stream.watchbuddy.tv
 - 🤖 **Telegram Bot:** https://t.me/WatchBuddyRobot
+- 🆚 **Compare:** See how WatchBuddy stacks up against other watch-together apps → https://watchbuddy.tv/alternatives
 
 ---
 

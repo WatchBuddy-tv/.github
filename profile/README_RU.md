@@ -17,7 +17,7 @@
 **WatchBuddy** — модульная экосистема для совместного просмотра видео с друзьями, независимо от расстояния.
 Наша цель — единый мост синхронизации для Web, Mobile и Desktop.
 
-[**Последний релиз GitHub**](https://github.com/WatchBuddy-tv/.github/releases/latest)
+[**Сайт**](https://watchbuddy.tv) • [**Последний релиз GitHub**](https://github.com/WatchBuddy-tv/.github/releases/latest)
 
 </div>
 
@@ -30,10 +30,10 @@ WatchBuddy построен на **децентрализованной и ра�
 Проект [ExampleProvider](https://github.com/WatchBuddy-tv/ExampleProvider) — официальный blueprint для разработчиков:
 
 - **Plug & Play:** просто добавьте URL своего провайдера в WatchBuddy.
-- **Изолированная разработка:** создавайте и тестируйте скрейперы локально, без внешних зависимостей.
+- **Изолированная разработка:** создавайте и тестируйте своих провайдеров локально, независимо от основной системы.
 - **На базе [KekikStream](https://github.com/keyiflerolsun/KekikStream):** современные инструменты извлечения медиа-ссылок. Основано на архитектуре [KekikStreamAPI](https://github.com/keyiflerolsun/KekikStreamAPI).
 
-> 🚀 **Создайте свой провайдер:** шаблон `ExampleProvider` позволяет подключить любимые сайты к WatchBuddy минимальным Python-кодом.
+> 🚀 **Создайте свой провайдер:** шаблон `ExampleProvider` позволяет подключить собственный провайдер контента к WatchBuddy минимальным Python-кодом.
 
 ---
 
@@ -54,6 +54,7 @@ WatchBuddy доступен на **Android** и **iOS**.
 Чтобы находить больше тайтлов и быстро отправлять фильм или сериал в room, вы также можете использовать один из сервисов:
 - 🌐 **Stream Web:** https://stream.watchbuddy.tv
 - 🤖 **Telegram-бот:** https://t.me/WatchBuddyRobot
+- 🆚 **Сравнить:** Узнайте, как WatchBuddy сравнивается с другими приложениями для совместного просмотра → https://watchbuddy.tv/ru/alternatives
 
 ---
 
