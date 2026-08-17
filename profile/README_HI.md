@@ -2,7 +2,7 @@
 
 # <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/1d/47/bb1d4757-5384-a7d1-83ac-eb0d8f1b45a8/Placeholder.mill/64x64bb.png" height="32" align="center"> WatchBuddy
 
-### सहज, समकालिक और नई पीढ़ी का मीडिया अनुभव
+### सशक्त, समकालिक और नई पीढ़ी का मीडिया अनुभव
 
 [![GitHub सितारे](https://img.shields.io/github/stars/WatchBuddy-tv?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv)
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)

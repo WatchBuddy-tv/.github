@@ -2,7 +2,7 @@
 
 # <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/1d/47/bb1d4757-5384-a7d1-83ac-eb0d8f1b45a8/Placeholder.mill/64x64bb.png" height="32" align="center"> WatchBuddy
 
-### Плавный, синхронный и новый формат медиа-опыта
+### Мощный, синхронный и новый формат медиа-опыта
 
 [![GitHub stars](https://img.shields.io/github/stars/WatchBuddy-tv?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv)
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)
@@ -39,7 +39,7 @@ WatchBuddy построен на **децентрализованной и ра�
 
 ## ✨ Ключевые возможности
 
-- ⏱️ **Точная синхронизация:** синхронное воспроизведение в реальном времени для всех участников.
+- ⏱️ **Синхронизация в реальном времени:** воспроизведение синхронизируется для всех участников в зависимости от условий сети.
 - 🌍 **Гибкая поддержка медиа:** нативная поддержка M3U/HLS и прямых видео URL.
 - 🛡️ **No-Hosting политика:** мы — слой синхронизации, не храним и не распространяем медиаконтент.
 - ☁️ **Облачная связность:** опциональная синхронизация профиля (избранное и история) между устройствами.

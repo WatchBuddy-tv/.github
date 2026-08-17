@@ -2,7 +2,7 @@
 
 # <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/1d/47/bb1d4757-5384-a7d1-83ac-eb0d8f1b45a8/Placeholder.mill/64x64bb.png" height="32" align="center"> WatchBuddy
 
-### 无缝、同步、面向下一代的媒体体验
+### 强大、同步、面向下一代的媒体体验
 
 [![GitHub stars](https://img.shields.io/github/stars/WatchBuddy-tv?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv)
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)
@@ -39,7 +39,7 @@ WatchBuddy 建立在**去中心化且可扩展**的架构之上。你不受预�
 
 ## ✨ 核心特性
 
-- ⏱️ **完整同步：** 所有参与者实时同步播放（播放/暂停/快进快退）。
+- ⏱️ **实时同步：** 根据网络状况为所有参与者同步播放（播放/暂停/快进快退）。
 - 🌍 **多样媒体支持：** 原生支持 M3U/HLS 流与直链视频 URL。
 - 🛡️ **不托管媒体：** WatchBuddy 是同步桥梁，不托管、不存储、不分发媒体内容。
 - ☁️ **云同步：** 可选资料同步，跨设备保留收藏和历史记录。

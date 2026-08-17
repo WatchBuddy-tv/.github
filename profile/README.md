@@ -2,7 +2,7 @@
 
 # <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/1d/47/bb1d4757-5384-a7d1-83ac-eb0d8f1b45a8/Placeholder.mill/64x64bb.png" height="32" align="center"> WatchBuddy
 
-### A Seamless, Synchronized, and Next-Generation Media Experience
+### A Powerful, Synchronized, and Next-Generation Media Experience
 
 [![GitHub stars](https://img.shields.io/github/stars/WatchBuddy-tv?style=for-the-badge&color=8A2BE2&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv)
 [![License](https://img.shields.io/badge/License-GPLv3-red?style=for-the-badge&labelColor=1a1a1a)](https://github.com/WatchBuddy-tv/.github/blob/main/LICENSE)
@@ -39,7 +39,7 @@ The [ExampleProvider](https://github.com/WatchBuddy-tv/ExampleProvider) project 
 
 ## ✨ Key Features
 
-- ⏱️ **Perfect Synchronization:** Real-time playback sync for all participants.
+- ⏱️ **Real-Time Synchronization:** Playback sync for all participants, network conditions permitting.
 - 🌍 **Versatile Media Support:** Native support for M3U/HLS streams and direct video URLs.
 - 🛡️ **No-Hosting Policy:** We are a synchronization bridge. We do not host, store, or distribute any media content.
 - ☁️ **Cloud Connectivity:** Optional profile sync to keep your favorites and history available across your devices.
